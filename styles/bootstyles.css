@@ -1,0 +1,108 @@
+.center-tab{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+   width: 66%;
+}
+.footer-font{
+    color: dodgerblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.name{
+    color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: cornflowerblue;
+    font-style: italic;
+}
+.description{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: dodgerblue;
+    font-size: large;
+}
+.header{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.leftbody{
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    top: 114px;
+    bottom: 64px;
+    left: 5px;
+}
+
+.rightbody{
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    top: 114px;
+    bottom: 64px;
+    right: 5px;
+}
+
+.tab-right-top{
+    position: relative;
+    top: 114px;
+    height: 500px;
+    width: 75%;
+    right: 5px;
+   margin-bottom: 200px;
+   margin-left: 20px;
+}
+
+.tab-right-bottom{
+    position: relative;
+    bottom: 64px;
+    width: 75%;
+    height: 500px;
+    right: 5px;
+    margin-top: 200px;
+    margin-left: 20px;
+}
+
+.tab-left-top{
+    position: relative;
+    top: 114px;
+    width: 75%;
+    height: 500px;
+    left: 5px;
+    margin-bottom: 200px;
+    margin-left: 20px;
+}
+
+.tab-left-bottom{
+    position: relative;
+    bottom: 64px;
+    width: 75%;
+    height: 500px;
+    left: 5px;
+    margin-top: 200px;
+    margin-left: 20px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    background-color: lightblue;
+    color: dodgerblue;
+}
+.kelli-link{
+    text-decoration: underline;
+    color: black;
+}
+
